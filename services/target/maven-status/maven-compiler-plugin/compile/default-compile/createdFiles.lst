@@ -1,0 +1,12 @@
+dto\BookDTO$BookDTOBuilder.class
+dto\UserDTO$UserDTOBuilder.class
+dto\UserDTO.class
+service\UsersService.class
+dto\UserWithBooksDTO$UserWithBooksDTOBuilder.class
+mappers\UserMapper.class
+service\BooksService.class
+dto\BookDTO.class
+mappers\BookMapper.class
+dto\UserWithBooksDTO.class
+mappers\impl\BookMapperImpl.class
+mappers\impl\UserMapperImpl.class

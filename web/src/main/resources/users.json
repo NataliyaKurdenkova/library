@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "login": "ivan",
+  "password": "qazwsx",
+  "mail": "ivan@mail.ru",
+  "surname": "Ivanov",
+  "name": "Ivan",
+  "age": 30
+}

@@ -1,0 +1,6 @@
+dao\BookDao.class
+entity\User$UserBuilder.class
+entity\User.class
+dao\UserDao.class
+entity\Book$BookBuilder.class
+entity\Book.class
